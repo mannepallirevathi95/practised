@@ -1,0 +1,16 @@
+# print("==============one==============")
+
+# class Student:
+#     def __init__(self, n = ' ', marks = 0):
+#         self.name = n
+#         self.marks = marks
+#         def display(self):
+#             print("hello dear", self.name)
+#             print("your marks are :", self.marks)
+    
+# s = Student()
+# print(s.display)
+
+
+print("=======================================")
+

@@ -1,0 +1,22 @@
+iam an inspired software engineer with 3.5y experiance and broad expertized in pyhton and pyspark
+with an extensive experience at front end tecnologies and frameworks like Pyspark FLASK
+i slashed on understanding of Git, Docker, Bamboo and compiled with databases such as Mysql,Postgresql.
+
+iam basically from andhra pradesh and currently drafting at Verisk analytics 
+from January 2019  as a software engineer
+
+so, getting to my project;
+ 
+Trade.com :
+been working since oct 2020,
+well...it is a multi asset brokerage that offering over a million instruments 
+on the meta - trader and web trader platforms.
+here,instruments that i used were forx pairs, CFDs, commodities, 
+cryptos and stocks  that are available.
+
+touching down to roles and duties :
+
+ i carried through agile and scrum methodology with two week sprint implementation in test driven development
+ I absorbed at writing Spark SQL scripts for data processing as per business requirements
+  by...understanding the requirements of poject and developing the code  based on the client requirements
+ 
